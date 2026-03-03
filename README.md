@@ -37,10 +37,6 @@
 - WPF (.NET Framework 4.8)
 - WindowsFormsHost + Chart (System.Windows.Forms.DataVisualization)
 
-## Архитектура
-- `MainWindow` — навигация (Frame) между 3 страницами
-- `Page1`, `Page2`, `Page3` — расчёт функций, валидация ввода, вывод результата
-- `Utils/InputValidators.cs` — вспомогательные проверки и парсинг чисел
 
 ## Как запустить
 1. Откройте файл решения `PracticalWork4_Variant3.sln` в Visual Studio.
